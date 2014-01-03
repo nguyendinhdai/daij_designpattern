@@ -25,7 +25,7 @@
  *     with Genix Ventures.
  */
 
-package com.journaldev.design.memento;
+package memento;
 
 //
 // IMPORTS
